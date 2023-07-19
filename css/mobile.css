@@ -1,0 +1,48 @@
+@media only screen and (max-width: 767px) {
+  .nav-text {
+    display: none;
+  }
+
+  .menu {
+    text-align: start;
+  }
+
+  .nav-link {
+    border-left: none;
+  }
+
+  .nav-link1 {
+    border-right: none;
+    position: relative;
+    left:-85px;
+   
+  }
+
+  .menu div:nth-child(2) {
+    border-right: none;
+  }
+
+  .menu div:nth-child(5) {
+    border-right: none;
+  }
+
+  /* phần chứng chỉ giải thưởng */
+
+  .cer-content1 {
+    border-right: none;
+  }
+
+  .pro-CV div {
+    padding-bottom: 10px;
+  }
+
+  /* digital mobile*/
+  .digital-icon {
+    text-align: center;
+  }
+
+  .border-cv {
+    border-right: none;
+    border-bottom: 15px solid blue;
+  }
+}
